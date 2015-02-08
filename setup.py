@@ -10,7 +10,7 @@ setup(
     url='https://github.com/ui/django-post_office',
     license='MIT',
     description='A Django app to monitor and send mail asynchronously, complete with template support.',
-    long_description=open('README.rst').read(),
+    long_description="--not working on Python 3.2--",
     zip_safe=False,
     include_package_data=True,
     package_data={'': ['README.rst']},
